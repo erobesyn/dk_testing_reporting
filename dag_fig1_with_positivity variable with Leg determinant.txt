@@ -1,0 +1,36 @@
+dag {
+bb="0,0,1,1"
+"Age / Sex" [adjusted,pos="0.382,0.553"]
+"Diagnosed LD" [pos="0.833,0.507"]
+"Leg determinants" [latent,pos="0.380,0.258"]
+"Leg infections" [latent,pos="0.519,0.362"]
+"Leg-tested" [adjusted,pos="0.624,0.510"]
+"Municipality / Year" [exposure,pos="0.253,0.522"]
+"Non-Leg determinants" [latent,pos="0.383,0.728"]
+"Non-Leg infections" [latent,pos="0.521,0.615"]
+"Population size" [adjusted,pos="0.382,0.445"]
+"Pos Leg-tested" [pos="0.723,0.507"]
+"Reported LD" [outcome,pos="0.947,0.510"]
+Pneumonia [latent,pos="0.521,0.505"]
+Positivity [pos="0.675,0.614"]
+"Age / Sex" -> "Leg infections"
+"Age / Sex" -> "Non-Leg infections"
+"Diagnosed LD" -> "Reported LD"
+"Leg determinants" -> "Leg infections"
+"Leg infections" -> "Diagnosed LD"
+"Leg infections" -> "Pos Leg-tested"
+"Leg infections" -> Pneumonia
+"Leg-tested" -> "Pos Leg-tested"
+"Leg-tested" -> Positivity
+"Municipality / Year" -> "Age / Sex"
+"Municipality / Year" -> "Leg determinants"
+"Municipality / Year" -> "Non-Leg determinants"
+"Municipality / Year" -> "Population size"
+"Non-Leg determinants" -> "Non-Leg infections"
+"Non-Leg infections" -> Pneumonia
+"Population size" -> "Leg infections"
+"Population size" -> "Non-Leg infections"
+"Pos Leg-tested" -> "Diagnosed LD"
+"Pos Leg-tested" -> Positivity
+Pneumonia -> "Leg-tested"
+}
