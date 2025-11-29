@@ -1,0 +1,1 @@
+Basemap adapted from OpenStreetMap, available under the Open Database License (https://www.openstreetmap.org/copyright)
