@@ -8,8 +8,10 @@ Robesyn E, Uldum SA, Bjerre KD, Kjelsø C, Struelens M, et al. (2026) Diagnostic
 
 **Erratum**
 Two references were switched in the published version:
-•	"These methods differ in diagnostic scope and performance and therefore in case ascertainment [24,40,41].   
-  -> last reference 41, Woodhead, should be 37, Svarrer et al.
-•	"Guidelines may not be relevant to all countries equally [37]" 
-  -> reference 37, Svarrer et al., should be 41, Woodhead. 
+
+"These methods differ in diagnostic scope and performance and therefore in case ascertainment [24,40,41]."  
+-> reference 41, Woodhead, should be 37, Svarrer et al.
+
+"Guidelines may not be relevant to all countries equally [37]" 
+-> reference 37, Svarrer et al., should be 41, Woodhead. 
 
