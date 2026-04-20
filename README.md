@@ -4,7 +4,7 @@
 
 **Publication**
 Diagnostic testing intensity for Legionnaires’ disease: Spatio-temporal assessment and its effect on surveillance case reporting, Denmark, 2014–2022 | PLOS One 
-Robesyn E, Uldum SA, Bjerre KD, Kjelsø C, Struelens M, et al. (2026) Diagnostic testing intensity for Legionnaires’ disease: Spatio-temporal assessment and its effect on surveillance case reporting, Denmark, 2014–2022. PLOS ONE 21(4): e0346580. [URL](https://doi.org/10.1371/journal.pone.0346580)
+Robesyn E, Uldum SA, Bjerre KD, Kjelsø C, Struelens M, et al. (2026) Diagnostic testing intensity for Legionnaires’ disease: Spatio-temporal assessment and its effect on surveillance case reporting, Denmark, 2014–2022. PLOS ONE 21(4): e0346580. [https://doi.org/10.1371/journal.pone.0346580](https://doi.org/10.1371/journal.pone.0346580)
 
 **Erratum**
 Two references were switched in the published version:
