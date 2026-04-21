@@ -1,6 +1,6 @@
 # dk_testing_reporting
 
-[![DOI](https://zenodo.org/badge/968123876.svg)](https://doi.org/10.5281/zenodo.15238531)
+[![Zenodo](https://zenodo.org/badge/968123876.svg)](https://doi.org/10.5281/zenodo.15238531)
 
 **Publication**
 Diagnostic testing intensity for Legionnaires’ disease: Spatio-temporal assessment and its effect on surveillance case reporting, Denmark, 2014–2022 | PLOS One 
