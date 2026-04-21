@@ -11,4 +11,5 @@ Two references, 37 and 41, were switched in the published version:
 "These methods differ in diagnostic scope and performance and therefore in case ascertainment [24,40, **41 should be 37 (Svarrer CW et al.)**]." 
 "Guidelines may not be relevant to all countries equally [**37 should be 41 (Woodhead M)**]" 
 
-The link to peer review history on pdf is broken. The history is accessible from the peer review tab on the article page or [direct URL](https://journals.plos.org/plosone/article/peerReview?id=10.1371/journal.pone.0346580)
+The link to the [peer review history](https://journals.plos.org/plosone/article/peerReview?id=10.1371/journal.pone.0346580)
+ is broken on the pdf. The history is accessible from the peer review tab on the article page. 
